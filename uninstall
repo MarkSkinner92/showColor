@@ -1,0 +1,3 @@
+#!/bin/bash
+rm /usr/local/bin/showColor*
+echo "\"showColor\" successfully uninstalled"

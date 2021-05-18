@@ -1,0 +1,5 @@
+#!/bin/bash
+cp ./src/showColor.py /usr/local/bin
+cp ./src/showColor /usr/local/bin
+chmod +x /usr/local/bin/showColor
+echo "\"showColor\" successfully installed"
