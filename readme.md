@@ -1,8 +1,8 @@
 ### INSTALL:
 
-git clone https://github.com/MarkSkinner92/showColor.git 
-cd showColor 
-sudo bash install 
+git clone https://github.com/MarkSkinner92/showColor.git <br />
+cd showColor <br />
+sudo bash install <br />
 
 ### USE:
 
