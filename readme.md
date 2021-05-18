@@ -9,7 +9,8 @@ sudo bash install
 run this command anywhere: showColor
 then follow the instructions it provides
 
-### DEPENDENCIES *Should already be installed by default
+### DEPENDENCIES 
 
+*Should already be installed by default
 - python 2.7.12
 - Tkinter Revision 81008
