@@ -6,7 +6,7 @@ sudo bash install <br />
 
 ### USE:
 
-Run this command anywhere: showColor
+Run this command anywhere: showColor <br />
 then follow the instructions it provides
 
 ### DEPENDENCIES 
